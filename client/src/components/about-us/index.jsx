@@ -24,7 +24,7 @@ const  About  = () => {
       },
       {  
         info:'study :',
-        value:'R.T.M Nagpur University'
+        value:'R.T.M. Nagpur University'
       },
       {  
        info:'work status :',
